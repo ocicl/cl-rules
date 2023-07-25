@@ -1,0 +1,10 @@
+* cl-rules
+
+Simple DSL for rules that can be configured without code
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Dimercel/cl-rules.git   |
+| commit  | 5d5c185  |
+| systems | cl-rules |
+|---------+-------------------------------------------|
+
